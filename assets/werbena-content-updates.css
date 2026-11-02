@@ -43,6 +43,15 @@
   font-family: Manrope, sans-serif;
 }
 
+.hero h1 em,
+.page-intro h1 em,
+.about-hero h1 em {
+  color: #e2ca91;
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-weight: 500;
+}
+
 .hero .hero-description,
 .page-intro-inner > p:not(.section-kicker),
 .page-intro-copy > p:not(.section-kicker),
